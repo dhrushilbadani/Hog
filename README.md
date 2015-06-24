@@ -7,3 +7,5 @@ Trends displays a that depicts how the people in different states feel about Cal
 2. Assigning a sentiment (positive or negative) to each Tweet, based on all of the words it contains,
 3. Aggregating Tweets by the state with the closest geographic center, and finally
 4. Coloring each state according to the aggregate sentiment of its Tweets. Yellow means positive sentiment; blue means negative.
+
+For usage details, please refer to: https://inst.eecs.berkeley.edu/~cs61a/fa14/proj/trends/
